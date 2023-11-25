@@ -9,8 +9,6 @@
 - [Kliknij tutaj, aby zobaczyć mój pełen projekt w formacie PDF | Click here to see my full project in PDF format](https://renatadanielewicz.github.io/kapusta-qa-project/kapusta-smart-finance-qa-project.pdf)
 
 
-<hr style="height:1px; color:gray;">
-
 <h2> Wstęp | Introduction</h2>
 
 ![Generic badge](https://img.shields.io/badge/PL-d50000.svg)
@@ -31,7 +29,6 @@
 
 <p><b>Kapu$ta</b> also keeps your budget data safe by setting a password, so you have full control over your financial information. The application is intended for anyone who wants to control their expenses and income and save money.</p>
 
-<hr style="height:0.5px; color:gray;">
 
 <h2>Podstawa Testów | Test Basis</h2>
 
@@ -63,7 +60,7 @@
 - [Specyfikacja wymagań | Requirements specification](https://docs.google.com/spreadsheets/d/142uLph3ahdORQ-2q3kC1SgwVxa-NeoTXJ7m5UKQW0tc/edit?pli=1#gid=0)
 - [Makieta w Figma | Mockup in Figma](https://www.figma.com/file/m2DLMAhjLHuQOPuIdwnGAI/Kapusta?type=design&node-id=19401-155&mode=design)
 </details>
-<hr style="height:0.5px; color:gray;">
+
 <h2> Używane Narzędzia | Tools Used</h2>
 
 <h2>
@@ -95,7 +92,7 @@
 <b>Jira</b> ➞ Creating bug reports</p>
 <p>
 <b>Trello</b> ➞ Work organization, time management, test process management</p>
-<hr style="height:0.5px; color:gray;">
+
 <h2> Środowisko Testowe | Testing environment</h2>
 
 ![Generic badge](https://img.shields.io/badge/PL-d50000.svg)
@@ -114,7 +111,7 @@
 <h5><b>Browser</b></h5>
 <p>Microsoft Edge Version 108.0.1462.76 (Official Build) 64-bit.</p>
  
-<hr style="height:0.5px; color:gray;">
+
 <h2> Dokumentacja Testowa | Test documentation </h2>
 
 ![Generic badge](https://img.shields.io/badge/PL-d50000.svg)
@@ -206,7 +203,6 @@
    
 </details>
  
-<hr style="height:0.5px; color:gray;">
 <h2>Podsumowanie Testów | Test Summary</h2>
 
 <p align="center">
@@ -230,7 +226,6 @@
 <p><b>36% of tests</b> failed:
 
 <P>There are areas that require corrective action, especially within critical functions.</P>
-<hr style="height:0.5px; color:gray;">
 
 <h2> Wyniki Test Runs | Test Runs Results</h2>
 
@@ -308,7 +303,7 @@ Kluczowym elementem do poprawy będzie wykres dla kategorii transakcji.</p>
 <h5>Test Run 5/15/2023 Report Page</h5>
 <p>💡Conclusions:</p>
 <p>The Report Page achieved the best results of all sections tested to date, achieving 80% passed tests. The key element to improve will be the chart for transaction categories.</p>
-<hr style="height:0.5px; color:gray;">
+
 <h2> Podsumowanie Wyników | Results Summary</h2>
 
 ![Generic badge](https://img.shields.io/badge/PL-d50000.svg)
